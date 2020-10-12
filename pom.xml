@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.zikozee</groupId>
     <artifactId>android-vendor-project</artifactId>
-    <version>1.1</version>
+    <version>1.2</version>
     <name>android-vendor-project</name>
     <description>Demo project for Spring Boot</description>
 
@@ -58,11 +58,11 @@
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/io.springfox/springfox-swagger-ui -->
-        <dependency>
-            <groupId>io.springfox</groupId>
-            <artifactId>springfox-boot-starter</artifactId>
-            <version>3.0.0</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>io.springfox</groupId>-->
+<!--            <artifactId>springfox-boot-starter</artifactId>-->
+<!--            <version>3.0.0</version>-->
+<!--        </dependency>-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
